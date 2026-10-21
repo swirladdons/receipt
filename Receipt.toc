@@ -1,0 +1,29 @@
+## Interface: 120100
+
+## Title: Receipt
+## Notes: Displays looted items, gold, currency, and reputation in a clean format
+## Author: Swirl
+## Version: @project-version@
+## SavedVariables: ReceiptDB
+## Dependencies: SwirlUI
+## IconTexture: Interface\ICONS\inv_helm_inv_leather_raidmonk_s_01
+## Group: SwirlUI
+
+## Category: User Interface
+## Category-deDE: Benutzerinterface
+## Category-esES: Interfaz de usuario
+## Category-esMX: Interfaz de usuario
+## Category-frFR: Interface utilisateur
+## Category-itIT: Interfaccia utente
+## Category-koKR: 사용자 인터페이스
+## Category-ptBR: Interface do usuário
+## Category-ruRU: Интерфейс пользователя
+## Category-zhCN: 用户界面
+## Category-zhTW: 使用者介面
+
+embeds.xml
+
+Core.lua
+Display.lua
+Events.lua
+Settings.lua
